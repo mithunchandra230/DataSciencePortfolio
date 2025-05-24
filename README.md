@@ -117,6 +117,6 @@ Welcome to my Data Science Portfolio! I'm a passionate data scientist with exper
 
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/mithun-chandra-chilukamary-13a54b367/)
 - **Email**: mithunchandra2309@gmail.com
-- **GitHub**: Your GitHub
+- **GitHub**: [Your GitHub](https://github.com/mithunchandra230)
 
 Feel free to explore the notebooks and reach out with questions or feedback!
